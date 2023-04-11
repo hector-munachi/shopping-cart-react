@@ -1,6 +1,6 @@
 ## 🛍️ Simple ecommerce cart application
 
-## Basic Overview - [Live Demo]()
+## Basic Overview - [Live Demo](https://reusable-shopping-cart.netlify.app/)
 
 This simple shopping cart prototype shows how React with Typescript, React hooks, react Context and Styled Components can be used to build a friendly user experience with instant visual updates and scaleable code in ecommerce applications.
 
